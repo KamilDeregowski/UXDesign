@@ -1,7 +1,7 @@
 Ankieta UX
 ==========
 
-## Jak często [liczba dni w tygodniu] zdarza Ci się zapomnieć wyłączyć światło i wyjśc z mieszkania? 
+## Jak często [liczba dni w tygodniu] zdarza Ci się zapomnieć wyłączyć światło i wyjść z mieszkania? 
 * Nie zdarza mi się
 * <3
 * 3 - 5
@@ -32,6 +32,8 @@ Ankieta UX
 ## Czy zdarza Ci się wracać do mieszkania tylko w celu sprawdzenia jednego (lub więcej) z powyższych?
 * Tak
 * Nie
+
+## Jeśli tak, to jak często Twoje obawy potwierdzały się?
 
 ## Czy uważasz, że aplikacja pozwalająca sprawdzić stan urządzeń (on/off) lub drzwi (otwarte/zamknięte) w mieszkaniu byłaby dla Ciebie przydatna?
 * Tak
