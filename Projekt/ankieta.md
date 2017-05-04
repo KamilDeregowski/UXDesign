@@ -33,7 +33,21 @@ Ankieta UX
 * Tak
 * Nie
 
-## Jeśli tak, to jak często Twoje obawy potwierdzały się?
+## Jeśli tak, to jak często Twoje obawy potwierdzały się [% przypadków]?
+* Nigdy
+* \> 10
+* \> 30
+* \> 50
+* \> 70
+
+## Czy zdarza Ci się nieumyślnie zostawiać otwartą lodówkę na czas dłuższy niż kilkadziesiąt minut?
+* Tak
+* Nie mam pewności
+* Nie
+
+## Czy zdarza Ci się mieć obawy dotyczące działania Twojej lodówki podczas Twojej nieobecności i związaną z tym przydatność prodkuktów do spożycia?
+* Tak
+* Nie
 
 ## Czy uważasz, że aplikacja pozwalająca sprawdzić stan urządzeń (on/off) lub drzwi (otwarte/zamknięte) w mieszkaniu byłaby dla Ciebie przydatna?
 * Tak
