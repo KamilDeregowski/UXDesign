@@ -1,40 +1,40 @@
 Ankieta UX
 ==========
 
-## Jak czêsto [liczba dni w tygodniu] zdarza Ci siê zapomnieæ wy³¹czyæ œwiat³o i wyjœc z mieszkania? 
-* Nie zdarza mi siê
+## Jak czÄ™sto [liczba dni w tygodniu] zdarza Ci siÄ™ zapomnieÄ‡ wyÅ‚Ä…czyÄ‡ Å›wiatÅ‚o i wyjÅ›c z mieszkania? 
+* Nie zdarza mi siÄ™
+* <3
+* 3 - 5
+* \>5
+* Codziennie
+
+## Jak czÄ™sto [liczba dni w tygodniu] zdarza Ci siÄ™ zastanawiaÄ‡, czy wyÅ‚aczyÅ‚aÅ›/eÅ› Å¼elazko z prÄ…du?
+* Nie zdarza mi siÄ™
 * <3
 * 3 - 5
 * >5
 * Codziennie
 
-## Jak czêsto [liczba dni w tygodniu] zdarza Ci siê zastanawiaæ, czy wy³aczy³aœ/eœ ¿elazko z pr¹du?
-* Nie zdarza mi siê
+## Jak czÄ™sto [liczba dni w tygodniu] zdarza Ci siÄ™ zastanawiaÄ‡, czy zamknÄ…Å‚eÅ› drzwi od mieszkania/pokoju?
+* Nie zdarza mi siÄ™
 * <3
 * 3 - 5
 * >5
 * Codziennie
 
-## Jak czêsto [liczba dni w tygodniu] zdarza Ci siê zastanawiaæ, czy zamkn¹³eœ drzwi od mieszkania/pokoju?
-* Nie zdarza mi siê
+## Jak czÄ™sto [liczba dni w tygodniu] masz poczucie, ze o czymÅ› zapomniaÅ‚aÅ›/eÅ›?
+* Nie zdarza mi siÄ™
 * <3
 * 3 - 5
 * >5
 * Codziennie
 
-## Jak czêsto [liczba dni w tygodniu] masz poczucie, ze o czymœ zapomnia³aœ/eœ?
-* Nie zdarza mi siê
-* <3
-* 3 - 5
-* >5
-* Codziennie
-
-## Czy zdarza Ci siê wracaæ do mieszkania tylko w celu sprawdzenia jednego (lub wiêcej) z powy¿szych?
+## Czy zdarza Ci siÄ™ wracaÄ‡ do mieszkania tylko w celu sprawdzenia jednego (lub wiÄ™cej) z powyÅ¼szych?
 * Tak
 * Nie
 
-## Czy uwa¿asz, ¿e aplikacja pozwalaj¹ca sprawdziæ stan urz¹dzeñ (on/off) lub drzwi (otwarte/zamkniête) w mieszkaniu by³aby dla Ciebie przydatna?
+## Czy uwaÅ¼asz, Å¼e aplikacja pozwalajÄ…ca sprawdziÄ‡ stan urzÄ…dzeÅ„ (on/off) lub drzwi (otwarte/zamkniÄ™te) w mieszkaniu byÅ‚aby dla Ciebie przydatna?
 * Tak
-* Nie wiem, ale wypróbujê
-* Nie wiem i nie wypróbujê
+* Nie wiem, ale wyprÃ³bujÄ™
+* Nie wiem i nie wyprÃ³bujÄ™
 * Nie
