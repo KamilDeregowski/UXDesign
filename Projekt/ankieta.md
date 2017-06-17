@@ -6,7 +6,7 @@ Ankieta UX - SmartHouse
 * < 19
 * 19 - 25
 * 25 - 30
-* > 30
+* \> 30
 
 ## Twoja płeć?
 * Kobieta
