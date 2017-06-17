@@ -3,14 +3,14 @@ Ankieta UX - SmartHouse
 
 
 1. W jakim jesteś wieku?
-  ⋅⋅⋅ < 19
-  ⋅⋅⋅ 19 - 25
-  ⋅⋅⋅ 25 - 30
-  ⋅⋅⋅ \> 30
+* < 19
+* 19 - 25
+* 25 - 30
+* > 30
 
 2. Twoja płeć?
-  ..* Kobieta
-  ..* Mężczyzna
+* Kobieta
+* Mężczyzna
 
 ## Jesteś...? [można zaznaczyć wiele odpowiedzi]
 * Uczniem
@@ -54,20 +54,20 @@ Ankieta UX - SmartHouse
 * W tym tygodniu
 * Dzisiaj/wczoraj
 
-## Kiedy ostatnio zdarzyło Ci się zapomnieć o podlaniu roślin doniczkowych?
-* Nie pamiętam
+## Jak często [liczba dni w tygodniu] zapominasz podlać rośliny doniczkowe?
+* Nie posiadam roślin
 * Nie zdarza mi się
-* W ciągu ostatniego miesiąca
-* W tym tygodniu
-* Dzisiaj/wczoraj
+* Raz w miesiącu
+* Co dwa tygodnie
+* Ciągle o tym zapominam
 
 ## Jak często [liczba dni w tygodniu] zdarza Ci się zpomnieć o uzupełnieniu wody w misce Twojego zwierzaka?
 * Nie posiadam zwierzęcia
-* Nie pamiętam
 * Nie zdarza mi się
-* W ciągu ostatniego miesiąca
-* W tym tygodniu
-* Dzisiaj/wczoraj
+* <3
+* 3 - 5
+* \>5
+* Codziennie
 
 ## Jak często [liczba dni w tygodniu] masz poczucie, że o czymś zapomniałaś/eś?
 * Nie zdarza mi się
