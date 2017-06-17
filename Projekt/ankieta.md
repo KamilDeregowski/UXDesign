@@ -80,7 +80,7 @@ Ankieta UX - SmartHouse
 * Tak
 * Nie
 
-## 13. Jeśli tak, to jak często Twoje obawy potwierdzały się [% przypadków]?
+## 13. Jeśli tak [w pytaniu 12], to jak często Twoje obawy potwierdzały się [% przypadków]?
 * W pytaniu 12 "nie"
 * Nigdy
 * \> 10
