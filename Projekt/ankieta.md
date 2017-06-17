@@ -81,6 +81,7 @@ Ankieta UX - SmartHouse
 * Nie
 
 ## 13. Jeśli tak, to jak często Twoje obawy potwierdzały się [% przypadków]?
+* W pytaniu 12 "nie"
 * Nigdy
 * \> 10
 * \> 30
@@ -122,7 +123,7 @@ Ankieta UX - SmartHouse
 * Tak
 * Nie
 
-## 22. Czy chciałabyś/chciałbyś móc monitorować stan wody i pożywieni w misce Twojego zwierzaka?
+## 22. Czy chciałabyś/chciałbyś móc monitorować stan wody i pożywienia w misce Twojego zwierzaka?
 * Tak
 * Nie
 * Nie posiadam zwierzęcia
