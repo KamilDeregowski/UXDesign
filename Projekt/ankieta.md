@@ -22,7 +22,7 @@ Ankieta UX
 * W tym tygodniu
 * Dzisiaj/wczoraj
 
-## Jak często [liczba dni w tygodniu] masz poczucie, ze o czymś zapomniałaś/eś?
+## Jak często [liczba dni w tygodniu] masz poczucie, że o czymś zapomniałaś/eś?
 * Nie zdarza mi się
 * <3
 * 3 - 5
