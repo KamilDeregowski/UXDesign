@@ -6,7 +6,7 @@ Ankieta UX - SmartHouse
 * < 19
 * 19 - 25
 * 25 - 30
-* \> 30
+* > 30
 
 ## Twoja płeć?
 * Kobieta
@@ -48,6 +48,21 @@ Ankieta UX - SmartHouse
 * Dzisiaj/wczoraj
 
 ## Kiedy ostatnio zdarzyło Ci się zapomnieć o gotującej się w czajniku wodzie, przez co musiałaś/eś gotować ją jeszcze raz?
+* Nie pamiętam
+* Nie zdarza mi się
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
+
+## Kiedy ostatnio zdarzyło Ci się zapomnieć o podlaniu roślin doniczkowych?
+* Nie pamiętam
+* Nie zdarza mi się
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
+
+## Jak często [liczba dni w tygodniu] zdarza Ci się zpomnieć o uzupełnieniu wody w misce Twojego zwierzaka?
+* Nie posiadam zwierzęcia
 * Nie pamiętam
 * Nie zdarza mi się
 * W ciągu ostatniego miesiąca
