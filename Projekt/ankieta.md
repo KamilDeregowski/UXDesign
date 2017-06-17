@@ -4,7 +4,7 @@ Ankieta UX - SmartHouse
 
 ## 1. W jakim jesteś wieku?
 * < 19
-* 19 - 25
+* 19 - 24
 * 25 - 30
 * \> 30
 
