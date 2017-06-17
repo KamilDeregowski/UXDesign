@@ -1,26 +1,26 @@
 Ankieta UX
 ==========
 
-## Jak często [liczba dni w tygodniu] zdarza Ci się zapomnieć wyłączyć światło i wyjść z mieszkania? 
+## Kiedy ostatnio zdarzyło Ci się zapomnieć wyłączyć światło i wyjść z mieszkania? 
 * Nie zdarza mi się
-* <3
-* 3 - 5
-* \>5
-* Codziennie
+* Nie pamiętam
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
 
-## Jak często [liczba dni w tygodniu] zdarza Ci się zastanawiać, czy wyłaczyłaś/eś żelazko z prądu?
+## Kiedy ostatnio zdarzyło Ci się zastanawiać, czy wyłaczyłaś/eś żelazko z prądu?
 * Nie zdarza mi się
-* <3
-* 3 - 5
-* \>5
-* Codziennie
+* Nie pamiętam
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
 
-## Jak często [liczba dni w tygodniu] zdarza Ci się zastanawiać, czy zamknąłeś drzwi od mieszkania/pokoju?
+## Kiedy ostatnio zdarzyło Ci się zastanawiać, czy zamknąłeś drzwi od mieszkania/pokoju?
 * Nie zdarza mi się
-* <3
-* 3 - 5
-* \>5
-* Codziennie
+* Nie pamiętam
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
 
 ## Jak często [liczba dni w tygodniu] masz poczucie, ze o czymś zapomniałaś/eś?
 * Nie zdarza mi się
