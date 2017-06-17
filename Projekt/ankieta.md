@@ -2,22 +2,22 @@ Ankieta UX
 ==========
 
 ## Kiedy ostatnio zdarzyło Ci się zapomnieć wyłączyć światło i wyjść z mieszkania? 
-* Nie zdarza mi się
 * Nie pamiętam
+* Nie zdarza mi się
 * W ciągu ostatniego miesiąca
 * W tym tygodniu
 * Dzisiaj/wczoraj
 
 ## Kiedy ostatnio zdarzyło Ci się zastanawiać, czy wyłaczyłaś/eś żelazko z prądu?
-* Nie zdarza mi się
 * Nie pamiętam
+* Nie zdarza mi się
 * W ciągu ostatniego miesiąca
 * W tym tygodniu
 * Dzisiaj/wczoraj
 
 ## Kiedy ostatnio zdarzyło Ci się zastanawiać, czy zamknąłeś drzwi od mieszkania/pokoju?
-* Nie zdarza mi się
 * Nie pamiętam
+* Nie zdarza mi się
 * W ciągu ostatniego miesiąca
 * W tym tygodniu
 * Dzisiaj/wczoraj
