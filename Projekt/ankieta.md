@@ -3,10 +3,10 @@ Ankieta UX - SmartHouse
 
 
 1. W jakim jesteś wieku?
-  ..* < 19
-  ..* 19 - 25
-  ..* 25 - 30
-  ..* \> 30
+  ⋅⋅⋅* < 19
+  ⋅⋅⋅* 19 - 25
+  ⋅⋅⋅* 25 - 30
+  ⋅⋅⋅* \> 30
 
 2. Twoja płeć?
   ..* Kobieta
