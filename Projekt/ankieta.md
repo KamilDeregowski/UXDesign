@@ -54,3 +54,14 @@ Ankieta UX
 * Nie wiem, ale wypróbuję
 * Nie wiem i nie wypróbuję
 * Nie
+
+## Czy chciałabyś/chciałbyś mieć możliwość zdalnego włączenia/wyłączenia światła w pokoju?
+* Tak
+* Nie
+
+## Czy chciałbyś móc sprawdzić przy użyciu telefonu aktualną temperaturę w Twoim pokoju?
+* Tak
+* Nie
+## Czy chciałabyś/chciałbyś móc monitorować zdalnego zmiany temperatury w Twoim pokoju?
+* Tak
+* Nie
