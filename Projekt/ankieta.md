@@ -1,5 +1,30 @@
-Ankieta UX
+Ankieta UX - SmartHouse
 ==========
+
+
+## W jakim jesteś wieku?
+* < 19
+* 19 - 25
+* 25 - 30
+* > 30
+
+## Twoja płeć?
+* Kobieta
+* Mężczyzna
+
+## Jesteś...? [można zaznaczyć wiele odpowiedzi]
+* Uczniem
+* Studentem
+* Pracuję zawodowo
+* Jestem uczniem i pracuję zawodowo
+* Jestem studentem i pracuję zawodowo
+
+## Z kim mieszkasz? [można zaznaczyć wiele odpowiedzi]
+* Sam
+* Ze znajomymi
+* Z partnerem/partnerką
+* Z dziećmi
+* Z rodzicami
 
 ## Kiedy ostatnio zdarzyło Ci się zapomnieć wyłączyć światło i wyjść z mieszkania? 
 * Nie pamiętam
@@ -16,6 +41,13 @@ Ankieta UX
 * Dzisiaj/wczoraj
 
 ## Kiedy ostatnio zdarzyło Ci się zastanawiać, czy zamknąłeś drzwi od mieszkania/pokoju?
+* Nie pamiętam
+* Nie zdarza mi się
+* W ciągu ostatniego miesiąca
+* W tym tygodniu
+* Dzisiaj/wczoraj
+
+## Kiedy ostatnio zdarzyło Ci się zapomnieć o gotującej się w czajniku wodzie, przez co musiałaś/eś gotować ją jeszcze raz?
 * Nie pamiętam
 * Nie zdarza mi się
 * W ciągu ostatniego miesiąca
@@ -59,9 +91,23 @@ Ankieta UX
 * Tak
 * Nie
 
-## Czy chciałbyś móc sprawdzić przy użyciu telefonu aktualną temperaturę w Twoim pokoju?
+## Czy chciałabyś/chciałbyś móc zdalnie odłączać urządzenia od prądu?
 * Tak
 * Nie
-## Czy chciałabyś/chciałbyś móc monitorować zdalnego zmiany temperatury w Twoim pokoju?
+
+## Czy chciałabyś/chciałbyś móc sprawdzić przy użyciu telefonu aktualną temperaturę w Twoim pokoju?
 * Tak
 * Nie
+
+## Czy chciałabyś/chciałbyś mieć możliwość zdalnego monitorowania dobowych zmian temperatury w Twoim pokoju?
+* Tak
+* Nie
+
+## Czy chciałabyś/chciałbyś mieć możliwość zdalnego sprawdzenia stanu nawodnienia Twoich roślin doniczkowych?
+* Tak
+* Nie
+
+## Czy chciałabyś/chciałbyś móc monitorować stan wody i pożywieni w misce Twojego zwierzaka?
+* Tak
+* Nie
+* Nie posiadam zwierzęcia
